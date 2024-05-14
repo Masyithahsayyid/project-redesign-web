@@ -5,8 +5,16 @@ Meskipun situs web ini memiliki desain yang menarik dan fungsional, terdapat kek
 
 # Solution
 Menambahkan background navbar menu. Solusi saya adalah menambahkan latar belakang pada navbar menu untuk meningkatkan daya tarik visual dan membantu membedakan antara konten utama dan menu navigasi. Dengan menambahkan latar belakang, dapat menciptakan tampilan yang lebih menarik dan profesional, sambil tetap mempertahankan fungsi dan navigabilitas yang baik. Latar belakang ini dirancang dengan cermat agar sesuai dengan estetika umum situs web kami, menciptakan konsistensi visual yang kuat di seluruh platform. Dengan demikian, pengguna akan lebih mudah mengidentifikasi dan mengakses opsi menu yang tersedia, meningkatkan pengalaman pengguna secara keseluruhan.
+![image](media/ss1.png)
+
 ![image](media/ss2.png)
 
-![image](media/ss3.png)
+![image](media/ss3.png) 
 
-![image](media/ss.png) 
+![image](media/ss4.png)
+
+![image](media/ss5.png)
+
+![image](media/ss6.png) 
+
+![image](media/ss7.png) 
